@@ -1,0 +1,16 @@
+{
+  "name": "social-web",
+  "version": "0.0.0",
+  "description": "doing mining the social web problems in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Dan McAulay",
+  "license": "BSD",
+  "dependencies": {
+    "ntwitter": "~0.5.0",
+    "simplesets": "~1.2.0"
+  }
+}
